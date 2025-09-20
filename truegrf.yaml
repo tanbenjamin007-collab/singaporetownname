@@ -1,4 +1,7 @@
 description: A new TrueGRF project
+grfid: f2887534
 license: CC0-1.0
+name: singaporetownname
 type: townname
+url: https://github.com/tanbenjamin007-collab/singaporetownname
 version: 6
